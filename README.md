@@ -1,0 +1,2 @@
+# AJUDAR
+Ajudar o próximo.
