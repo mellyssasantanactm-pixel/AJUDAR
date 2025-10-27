@@ -8,7 +8,7 @@
 /* Raiz */
 :root,
 :root[data-theme='dark'] {
-    --cor-fundo: #ef87d5;
+    --cor-fundo: #a877dc;
     --cor-text0: #fdfcfc;
     --menu-link: rgb(12, 12, 12);
     --cor-borda: rgb(76, 12, 76);
@@ -105,7 +105,7 @@ header {
 
 .menu-text {
     color: var(--menu-link);
-    font-size: 0.9rem;
+    font-size: 0.9em;
     text-transform: uppercase;
 }
 
@@ -274,7 +274,7 @@ h3 {
 .projeto-card {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1rem;
 }
 
 .img-card {
@@ -293,7 +293,7 @@ h3 {
 .card-titulo {
     color: #f9f7f9;
     /* Cor do texto */
-    font-weight: 3rem;
+    font-weight: 1 rem;
     /* Tamanho do texto */
     font-size: 2rem;
     /* largura das letras */
